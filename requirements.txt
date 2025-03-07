@@ -1,0 +1,5 @@
+streamlit
+Keras
+numpy
+opencv_python==4.4.0.46
+tensorflow
