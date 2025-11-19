@@ -16,14 +16,14 @@ AgriScan helps farmers and researchers quickly diagnose crop diseases and take p
    
 ⚙️ Tech Stack
 
-Frontend
+1. Frontend
           > Streamlit (Interactive UI)
-Backend / ML
+2. Backend / ML
           > Python
           > TensorFlow (CNN model)
           > OpenCV (image preprocessing)
           > NumPy / Pandas (data handling)
-APIs / Tools
+3. APIs / Tools
           > Streamlit API for UI components
           > TensorFlow Keras API for model training & inference
           > OpenCV functions (resize, normalize, denoise)
