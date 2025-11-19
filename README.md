@@ -28,4 +28,4 @@ APIs / Tools
            TensorFlow Keras API for model training & inference
            OpenCV functions (resize, normalize, denoise)
    
-<img width="1024" height="1536" alt="Agri_flow" src="https://github.com/user-attachments/assets/53d91844-4070-4bf1-9b4f-bd6da1d3c3d7" />
+<img width="300" height="500" alt="Agri_flow" src="https://github.com/user-attachments/assets/53d91844-4070-4bf1-9b4f-bd6da1d3c3d7" />
