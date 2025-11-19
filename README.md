@@ -13,5 +13,19 @@ AgriScan helps farmers and researchers quickly diagnose crop diseases and take p
    Normalization
    Noise reduction
    Augmentation
-
    
+⚙️ Tech Stack
+
+Frontend
+           Streamlit (Interactive UI)
+Backend / ML
+           Python
+           TensorFlow (CNN model)
+           OpenCV (image preprocessing)
+           NumPy / Pandas (data handling)
+APIs / Tools
+           Streamlit API for UI components
+           TensorFlow Keras API for model training & inference
+           OpenCV functions (resize, normalize, denoise)
+   
+<img width="1024" height="1536" alt="Agri_flow" src="https://github.com/user-attachments/assets/53d91844-4070-4bf1-9b4f-bd6da1d3c3d7" />
