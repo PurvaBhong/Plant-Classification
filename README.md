@@ -29,3 +29,19 @@ AgriScan helps farmers and researchers quickly diagnose crop diseases and take p
           > OpenCV functions (resize, normalize, denoise)
    
 <img width="300" height="500" alt="Agri_flow" src="https://github.com/user-attachments/assets/53d91844-4070-4bf1-9b4f-bd6da1d3c3d7" />
+
+🚀 How to Run Locally
+
+1️⃣ Clone the repository
+  - git clone https://github.com/PurvaBhong/Plant-Classification.git
+  - cd AgriScan
+
+2️⃣ Create virtual environment 
+  - python -m venv venv
+  - venv\Scripts\activate    # Windows
+
+3️⃣ Install dependencies
+  - pip install -r requirements.txt
+
+4️⃣ Run the Streamlit app
+  - streamlit run main_app.py
